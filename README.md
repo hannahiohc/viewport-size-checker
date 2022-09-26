@@ -6,3 +6,4 @@ Available in Safari, Chrome, Firefox and maybe more.
 1. Add a bookmark in your browser.
 2. Copy JS code and paste to the URL of your new bookmark.
 3. Click the bookmark to get the viewport size.
+4. Check the top right corner of the browser.
